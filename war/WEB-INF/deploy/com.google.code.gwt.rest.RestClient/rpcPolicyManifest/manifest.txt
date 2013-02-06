@@ -1,0 +1,2 @@
+# Module com.google.code.gwt.rest.RestClient
+# RPC service class, partial path of RPC policy file
