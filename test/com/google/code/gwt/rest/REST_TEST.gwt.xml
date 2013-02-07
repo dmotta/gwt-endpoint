@@ -3,7 +3,7 @@
 	<inherits name="com.google.gwt.core.Core" />
 
 	<inherits name='com.google.gwt.user.User' />
-	<inherits name='com.google.code.gwt.rest.RestClient' />
+	<inherits name='com.google.code.gwt.rest.GwtEndpoint' />
 	<inherits name='com.google.gwt.junit.JUnit' />
 
 	<source path='client' />
